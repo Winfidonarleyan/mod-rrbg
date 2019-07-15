@@ -36,7 +36,8 @@ First you need to understand 2 important things
 * In GitHub https://github.com/azerothcore/azerothcore-wotlk/compare/master...Winfidonarleyan:rrbg
 * In Diff https://github.com/azerothcore/azerothcore-wotlk/compare/master...Winfidonarleyan:rrbg.diff
 2. Write me in Discord - `Winfidonarleyan#9038` for paying module and access in repo
-3. Done ? maybe maybe
+3. Need added new BG in `BattlemasterList.dbc`. ID - 33, Name - `Random Rating Battleground` or at will. Or take the finished file, which is already done.
+4. Done ? maybe maybe
 
 ### Other
 - You get access to the repository, in which the system will gradually improve and add new features
