@@ -1,10 +1,9 @@
-# mod-rrbg
-Random rating battleground for AzerothCore
+# Random rating battleground for AzerothCore (mod-rrbg)
 
-## About module
+### About module
 This module add random rating battleground. It's very simple, it's like an arena, but instead of the arena, you participate on the battleground.
 
-## Config options
+### Config options
 ```ini
 ###################################################################################################
 #   RANDOM RATING BATTLE GROUND
@@ -49,4 +48,6 @@ First you need to understand 2 important things
 - Coming soon...
 
 ### Credits
-- Coming soon...
+- [Winfidonarleyan](https://github.com/Winfidonarleyan) (Author of the module)
+- [AzerothCore repository](https://github.com/azerothcore/azerothcore-wotlk)
+- [Discord AzerothCore](https://discord.gg/PaqQRkd)
