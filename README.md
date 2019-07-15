@@ -47,6 +47,10 @@ First you need to understand 2 important things
 ### Screenshots
 - Coming soon...
 
+### How to test in test server
+```set realmlist dev.kargatum.ru```
+- Default account in AC DB (`test1` to `test10`, with password `a`)
+
 ### Credits
 - [Winfidonarleyan](https://github.com/Winfidonarleyan) (Author of the module)
 - [AzerothCore repository](https://github.com/azerothcore/azerothcore-wotlk)
